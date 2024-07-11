@@ -11,8 +11,7 @@ PreciseMart platform is designed to revolutionize the online shopping experience
 
 ### Author(s)
 
-- [Author 1 - LinkedIn](www.linkedin.com/in/
-favour-avwopiabro)
+- [Author 1 - LinkedIn](www.linkedin.com/in/favour-avwopiabro)
 
 ## Installation
 
